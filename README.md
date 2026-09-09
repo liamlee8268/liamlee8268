@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Liam 👋
 
-<!--
-**liamlee8268/liamlee8268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Munich. Most of my day goes into open-source tooling, backend microservices, and debugging stuff that worked fine on my machine.
 
-Here are some ideas to get you started:
+#### What I work on
+- 🛠️ CLI utilities and backend services in Go and Python
+- 📦 Docker setups and containerized dev environments
+- 🌐 Occasional frontend experiments with modern JavaScript
+- ⚡ Shaving milliseconds off my Neovim startup time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+- **Languages:** Go, Python, JavaScript / TypeScript, Bash
+- **Infrastructure & Tools:** Docker, Linux, Git, Neovim, PostgreSQL
+
+#### Reach Out
+- Open an issue or PR on any of my repos
+- Email: `liamlee8268@proton.me`
